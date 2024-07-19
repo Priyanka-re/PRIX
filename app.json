@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "prix",
-    "slug": "prix",
+    "name": "Button",
+    "slug": "Button",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
